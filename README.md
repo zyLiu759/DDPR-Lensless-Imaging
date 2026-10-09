@@ -99,19 +99,3 @@ If you find DDPR or the associated datasets useful in your research, please cite
 **Degradation-Decoupled Progressive Recovery for Lensless Imaging**
 
 *Citation information will be updated upon publication.*
-
-## Contact
-
-For questions regarding the implementation, datasets, or research collaboration, please contact:
-
-**Email:** [Contact Email], together with your name, institutional affiliation, intended research purpose, and the dataset(s) requested.
-
-Requests will be reviewed by the research team. Access instructions will be provided to approved applicants.
-
-## Citation
-
-If you find DDPR or the associated datasets useful in your research, please cite our paper:
-
-**Degradation-Decoupled Progressive Recovery for Lensless Imaging**
-
-*Citation information will be updated upon publication.*
