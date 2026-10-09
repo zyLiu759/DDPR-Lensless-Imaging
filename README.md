@@ -13,7 +13,7 @@ The framework is evaluated on two public benchmarks (DiffuserCam and PhlatCam) a
 
 ## Code and Models
 
-The source code, pretrained models, and usage instructions are currently being organized. Information regarding their availability will be updated in this repository.
+The source code and usage instructions are currently being organized. Information regarding their availability will be updated in this repository.
 
 For research and reproduction inquiries, please contact the authors.
 
